@@ -9,4 +9,4 @@
 
 - condensed the CSS file 
 
--made notes on the things I did in the index.html file and in the style.css file
+- made notes on the things I did in the index.html file and in the style.css file
